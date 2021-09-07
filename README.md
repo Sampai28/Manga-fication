@@ -1,2 +1,2 @@
-# Mangafication-Of-Anime
+# Manga-fication
 Manga-fying Anime clips
